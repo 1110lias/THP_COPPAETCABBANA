@@ -68,3 +68,7 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem "faker" #create the seed data
+
+gem "devise" #create & manage password hashes & user login process
